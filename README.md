@@ -42,16 +42,6 @@ I work with **customer and operational data** to help teams monitor performance,
 
 ---
 
-## 📌 Selected Projects
-
-🔹 **TFI – Inventory Manager (Python + SQLite)**  
-Inventory management system with CRUD operations and low-stock reporting.  
-*Final academic project built in Python.*
-
-🔹 **MedComp – Corporate Website (2019)**  
-Multi-page website built with HTML, CSS and JavaScript for services and courses.
-
----
 
 ## 🚀 Current Focus
 
