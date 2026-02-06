@@ -36,9 +36,9 @@ I work with **customer and operational data** to help teams monitor performance,
 - SQL (basic)
 
 **Web**
-- HTML, CSS, JavaScript
-- WordPress, WooCommerce
-- Static websites (GitHub Pages)
+- HTML, CSS, JavaScript 
+- WordPress, WooCommerce, Shopify, Tienda Nube
+- Static websites
 
 ---
 
