@@ -1,58 +1,114 @@
 # 👋 Hi, I'm Alejandro
 
-📊 **Data & Operations Analyst**  
-💼 Background in fintech customer operations, reporting & performance analysis  
-🌍 Remote-oriented | Argentina
+I like understanding how things work.
 
-I work with **customer and operational data** to help teams monitor performance, detect issues early, and improve decision-making through clear reporting and practical tools.
+Once I understand them, I naturally start asking how they could work better.
 
----
-
-## 🔍 What I do
-
-- 📈 Data analysis & dashboards for customer operations  
-- 📊 Performance monitoring (CSAT, DSAT, SLAs, productivity)  
-- 🛠️ Small tools & scripts to support operational workflows  
-- 🌐 Web and digital projects focused on clarity and usability  
+Throughout my career I have worked across healthcare, fintech, customer operations, data analysis, web development, and now video game development. While the industries have changed, the way I approach problems has remained the same: understand the context, break problems into smaller parts, learn what is needed, and build practical solutions.
 
 ---
 
-## 🧠 Background & Experience
+## 🚀 What I'm building
 
-- Experience in **customer support, quality and data analysis** roles  
-  *(Fintech environments – Klarna / Transcom, OSPLAD)*  
-- Strong focus on **operational KPIs** and executive reporting  
-- Hands-on work with **Looker / Google Sheets / Excel**  
-- Continuous learning in **data analytics, AI and Python**
+I'm currently expanding my skills through hands-on projects in:
 
----
+* 📊 Data Analysis & Business Intelligence
+* 🤖 Artificial Intelligence & Automation
+* 🎮 Video Game Development
+* 🌐 Digital Products & Web Development
 
-## 🧰 Tech Stack (practical level)
-
-**Data & Analytics**
-- Python (basic → intermediate)
-- Looker / Looker Studio
-- Google Sheets / Excel
-- SQL (basic)
-
-**Web**
-- HTML, CSS, JavaScript 
-- WordPress, WooCommerce, Shopify, Tienda Nube
-- Static websites
+Rather than specializing in a single technology, I enjoy connecting ideas from different disciplines to build useful products and improve existing systems.
 
 ---
 
+## 🧩 How I work
 
-## 🚀 Current Focus
+When facing a new problem, my usual approach is to:
 
-- Improving data analytics & Python skills through real projects  
-- Building reusable **web templates & digital resources**  
-- Remote work opportunities (freelance or full-time)
+* Understand the context before proposing solutions.
+* Separate symptoms from root causes.
+* Break complex problems into manageable parts.
+* Learn whatever is necessary to solve the problem.
+* Improve the process, not just complete the task.
+
+This mindset has guided me throughout every stage of my career.
 
 ---
 
-## 📬 Contact
+## 🛠 Current Tech Stack
 
-- 💼 LinkedIn: https://www.linkedin.com/in/alejandro-matesa/  
-- 📧 Email: alejandromatesa@gmail.com
+### Data
 
+* Python
+* SQL
+* Looker Studio
+* Google Sheets
+* Excel
+
+### Development
+
+* HTML
+* CSS
+* JavaScript
+* PHP
+* WordPress
+
+### Game Development
+
+* Unity
+* C#
+* Game Design
+* Gameplay Programming
+
+### AI
+
+* ChatGPT
+* Prompt Engineering
+* AI-assisted Development
+
+---
+
+## 📂 Featured Projects
+
+I'm currently building a portfolio that reflects both my professional experience and my learning journey.
+
+Projects include:
+
+* 📊 Data analysis and dashboard projects
+* 🎮 Video game prototypes developed at UTN
+* 🌐 Web applications and digital products
+* 🤖 Automation and AI-assisted workflows
+
+More projects will be published over time.
+
+---
+
+## 🌍 Looking for
+
+I'm interested in opportunities involving:
+
+* Data Analysis
+* Business Intelligence
+* Product & Operations
+* QA
+* Automation
+* Digital Products
+* Video Game Development
+
+Remote positions are preferred.
+
+---
+
+## 📫 Contact
+
+💼 LinkedIn
+https://www.linkedin.com/in/alejandro-matesa/
+
+🌐 Portfolio
+https://amatesa.github.io/portfolio
+
+💻 GitHub
+https://github.com/amatesa
+
+📧 Email
+[matesaalejandro@gmail.com](mailto:matesaalejandro@gmail.com)
