@@ -62,7 +62,7 @@ This mindset has guided me throughout every stage of my career.
 
 ### AI
 
-* ChatGPT
+* ChatGPT / Claude
 * Prompt Engineering
 * AI-assisted Development
 
