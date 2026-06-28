@@ -26,19 +26,19 @@ His natural instinct is to understand a system before attempting to improve it.
 
 # Fundamental Motivation
 
-Alejandro is motivated by progress.
-
-Not recognition.
-
-Not titles.
-
-Not prestige.
+Alejandro is primarily motivated by progress.
 
 He enjoys understanding how things work and making them work better.
 
-Improvement is not a goal.
+Learning is an essential part of that process because every new challenge expands the range of problems he can solve.
 
-It is his default way of thinking.
+At the same time, he values recognition earned through meaningful work.
+
+He does not seek visibility for its own sake, but he finds genuine satisfaction in knowing that his work made a difference and that others recognize its quality.
+
+Improvement is not only something he pursues for himself.
+
+He wants the results of that improvement to be useful, noticeable, and remembered.
 
 ---
 
