@@ -304,7 +304,9 @@ If someone describes Alejandro after working with him, the desired conclusion is
 
 The desired conclusion is:
 
-"He understood the problem, improved the system and left it better than he found it."
+"He understood the problem, improved the system, did the work well, and left things better than he found them."
+
+If that work is remembered and appreciated, he considers it one of the most meaningful forms of professional recognition.
 
 ---
 
